@@ -28,8 +28,6 @@ class Rope {
       stroke(48, 22, 8);
       strokeWeight(4);
 
-      line(pointB.x, pointB.y, pointA.x, pointA.y);
-
       pop();
     }
   }
