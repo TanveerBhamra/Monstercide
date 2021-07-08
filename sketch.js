@@ -39,7 +39,6 @@ function draw() {
   ground.display();
 
   hero.display();
-  rope.display();
   monster.display();
 
   for(var h = 0; h <= 11; h++){
